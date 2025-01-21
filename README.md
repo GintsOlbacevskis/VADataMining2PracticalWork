@@ -12,8 +12,6 @@ colleague on-board.
 - Data set: SystemAdministrators.csv. Using R Studio, create a scatter plot of 
 Experience vs. Training, color-coded by the outcome variable yes/no. Make sure to 
 obtain a well-formatted plot (create legible labels and a legend, etc.).
-- HR data processing: Patterns / relationships:
-Continue the work done from the previous practical work assignment PW1.
 
 ### 2.TASK:
 - Data set: 02_hr_data_v00.csv. Try to discover some patterns / relationships in HR
